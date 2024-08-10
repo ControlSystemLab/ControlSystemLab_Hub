@@ -18,7 +18,8 @@ extensions = ['recommonmark']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
+# The master toctree document.
+master_doc = 'index'
 source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
