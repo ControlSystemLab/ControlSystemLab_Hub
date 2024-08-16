@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-control_system_lab_hub documentation
+Control System Lab Hub @ UNNC
 ====================================
 
 Add your content using ``reStructuredText`` syntax. See the
